@@ -1,3 +1,2 @@
-# pwassignment
-Assignment codes for C++ from PW Skills.
-the code that i will learn through my journey of reading in C++ 
+# Web development Course
+This is a design which i have created during learning web development.
